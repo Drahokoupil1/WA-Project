@@ -3,7 +3,6 @@ Overview-This document provides an overview of the development process and archi
 Project Description-The project is a web application called "Cars-Drahokoupil" designed to provide information about cars and allow users to browse and search for car models
 Technologies Used:
 Front-end: HTML, CSS, JavaScript
- Framework: Laravel
 
 Development Process-The project was developed following an iterative and agile approach. The development process can be summarized as follows
 Requirement Gathering: Gathered requirements from the client and created a detailed specification document.
