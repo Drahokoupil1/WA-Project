@@ -9,11 +9,10 @@ Requirement Gathering: Gathered requirements from the client and created a detai
 Design: Created wireframes and UI designs for the application.
 Database Design: Designed the database schema to store car information
 Front-end Development: Developed the user interface using HTML, CSS, and JavaScript
-Back-end Development: Implemented the server-side logic using PHP and Laravel framework.
- Integration: Integrated the front-end and back-end components.
+ Integration: Integrated the front-end components.
 
 Architecture
-The project follows a client-server architecture. The front-end is built using HTML, CSS, and JavaScript, and it communicates with the back-end server implemented in PHP using the Laravel framework. The server connects to a MySQL database to retrieve and store car information.
+The project follows a client-server architecture. The front-end is built using HTML, CSS, and JavaScript, and it communicates.
 
 Conclusion
 This document provides an overview of the project's development process, technologies used, and architecture. It serves as a reference for understanding the project and can be used for future maintenance and enhancements.
